@@ -4,19 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I recently graduated from **Zhejiang University** with a degree in Automation and Control, where I was also enrolled in the **Advanced Honor Class of Engineering Education at Chu Kochen Honors College**. During the summer of 2025, I was a research intern at **The Hong Kong Polytechnic University (PolyU)**, advised by [Prof. Wanyu Lin](https://wanyu-lin.github.io/).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Bayesian Inference:** PDE & image inverse problems, posterior inference, uncertainty quantification (UQ).
+- **Probabilistic Methods:** Zero-shot constrained generation, flow matching, generative dynamics.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jul. 2025]** Visited The Hong Kong Polytechnic University (PolyU) for a summer research exchange.
 
 {% include_relative _includes/publications.md %}
 
