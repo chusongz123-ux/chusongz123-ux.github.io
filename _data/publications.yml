@@ -23,7 +23,7 @@ main:
 
 
   - title: "Restoring the Right Measure: Posterior-Consistent Flow Matching for PDE Inverse Problems"
-    authors: <strong>Chusong Zhang<strong>
+    authors: <strong>Chusong Zhang</strong>
     # conference_short: 
     conference: Preprint, 2026.
     pdf: ./files/CMSP_preprint_1026.pdf
@@ -31,11 +31,46 @@ main:
     Julia: 
     image: ./assets/img/cmsp_image.png
     notes: Under Review
+    description: >-
+      Introduces the **Conditional Minimal Step-Wise Perturbation (CMSP)**
+      framework to achieve faithful Bayesian posterior approximation while
+      strictly satisfying hard physical constraints in zero-shot PDE inverse
+      problems. The method leverages pretrained generative flows to induce
+      a conditional vector field directed toward the true posterior, and
+      incorporates the **Pre-Image Invariant Spectral Transfer (PIS)**
+      algorithm to mitigate the computational and memory complexity of
+      the flow-induced covariance-weighted matrix.
 
   - title: "Asymptotic Inconsistency of Interpolation in Terminal-Projected Flows for PDE Inversion"
-    authors: <strong>Chusong Zhang<strong>
+    authors: <strong>Chusong Zhang</strong>
     # conference_short: 
     conference: Preprint, 2026.
     pdf: ./files/MSP_preprint_0930.pdf
     image: ./assets/img/msp_image.png
-    # notes: Under Review
+    notes: Preprint
+    description: >-
+      Audits zero-shot terminal-projection flow samplers, identifying
+      that their widely accepted reverse optimal-transport (OT) displacement
+      interpolation assumption exhibits progressive asymptotic inconsistency
+      after state projection. Introduces the **Minimal Step-wise Perturbation (MSP)**
+      framework as an optimization-based reference independent of this invalid
+      assumption, and analyzes method discrepancies to uncover how the unrecognized
+      surplus velocity field disrupts generative dynamics."
+
+
+  - title: "Geometric Graph Neural Diffusion for Stable Molecular Dynamics Simulations"
+    authors: Linkang Du*, Xuanru Zhou*, Min Chen, <strong>Chusong Zhang</strong>, Zhou Su, Peng Cheng, Jiming Chen, Zhikun Zhang
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
+    pdf: ./files/3313_Geometric_Graph_Neural_Di
+    page: https://openreview.net/forum?id=T8VcTykTf1
+    image: ./assets/img/ggnd_image.png
+
+
+  - title: "SoK: Dataset Copyright Auditing in Machine Learning Systems"
+    authors: Linkang Du*, Xuanru Zhou*, Min Chen, <strong>Chusong Zhang<\strong>, Zhou Su, Peng Cheng, Jiming Chen, Zhikun Zhang
+    conference_short: IEEE S&P
+    conference: IEEE Symposium on Security and Privacy <strong>(IEEE S&P)<\strong>, 2025.
+    pdf: ./files/SoK_Dataset_Copyright_Auditing_in_Machine_Learning_Systems.pdf
+    page: https://ieeexplore.ieee.org/abstract/document/11023289
+    image: ./assets/img/sok_image.png
