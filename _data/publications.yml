@@ -63,14 +63,14 @@ main:
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
     pdf: ./files/3313_Geometric_Graph_Neural_Di
-    page: https://openreview.net/forum?id=T8VcTykTf1
+    html: https://openreview.net/forum?id=T8VcTykTf1
     image: ./assets/img/ggnd_image.png
 
 
   - title: "SoK: Dataset Copyright Auditing in Machine Learning Systems"
-    authors: Linkang Du*, Xuanru Zhou*, Min Chen, <strong>Chusong Zhang<\strong>, Zhou Su, Peng Cheng, Jiming Chen, Zhikun Zhang
+    authors: Linkang Du*, Xuanru Zhou*, Min Chen, <strong>Chusong Zhang</strong>, Zhou Su, Peng Cheng, Jiming Chen, Zhikun Zhang
     conference_short: IEEE S&P
-    conference: IEEE Symposium on Security and Privacy <strong>(IEEE S&P)<\strong>, 2025.
+    conference: IEEE Symposium on Security and Privacy <strong>(IEEE S&P)</strong>, 2025.
     pdf: ./files/SoK_Dataset_Copyright_Auditing_in_Machine_Learning_Systems.pdf
-    page: https://ieeexplore.ieee.org/abstract/document/11023289
+    html: https://ieeexplore.ieee.org/abstract/document/11023289
     image: ./assets/img/sok_image.png
