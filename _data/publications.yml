@@ -59,7 +59,7 @@ main:
 
 
   - title: "Geometric Graph Neural Diffusion for Stable Molecular Dynamics Simulations"
-    authors: Linkang Du*, Xuanru Zhou*, Min Chen, <strong>Chusong Zhang</strong>, Zhou Su, Peng Cheng, Jiming Chen, Zhikun Zhang
+    authors: Haokai Hong, Wanyu Lin, <strong>Chusong Zhang</strong>, KC Tan
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
     pdf: ./files/3313_Geometric_Graph_Neural_Di.pdf
