@@ -9,7 +9,7 @@ I recently graduated from **Zhejiang University** with a degree in Automation an
 ## Research Interests
 
 - **Bayesian Inference:** PDE & image inverse problems, posterior inference, uncertainty quantification (UQ).
-- **Probabilistic Methods:** Zero-shot constrained generation, flow matching, generative dynamics.
+- **Probabilistic Methods:** zero-shot, constrained generation, diffusion models, flow matching, dynamics.
 
 ## News
 
