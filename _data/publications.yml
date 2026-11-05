@@ -30,7 +30,7 @@ main:
     code: 
     Julia: 
     image: ./assets/img/cmsp_image.png
-    notes: Under Review
+    # notes: Under Review
     description: >-
       Introduces the **Conditional Minimal Step-Wise Perturbation (CMSP)**
       framework to achieve faithful Bayesian posterior approximation while
@@ -47,7 +47,7 @@ main:
     conference: Preprint, 2026.
     pdf: ./files/MSP_preprint_0930.pdf
     image: ./assets/img/msp_image.png
-    notes: Preprint
+    notes: Under Review
     description: >-
       Audits zero-shot terminal-projection flow samplers, identifying
       that their widely accepted reverse optimal-transport (OT) displacement
